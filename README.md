@@ -46,3 +46,5 @@ The CLI page provides a prompt to paste into Claude Code that walks the agent th
 These examples are about the agent and CLI route because that is what Higgsfield documents publicly. If what you actually need is a plain HTTP call from a worker process, with a Python SDK, a single endpoint for image, video and audio models, and a bill that is per run instead of per second, that is what [Synexa](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=higgsfield-api-examples&utm_content=readme-top&utm_term=tier-r) does. Keep Higgsfield for the models only it hosts; use Synexa for the boring generation jobs in your pipeline.
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=higgsfield-api-examples&utm_content=readme-top&utm_term=tier-r)
+
+_Last reviewed: 2026-09-22_
